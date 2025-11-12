@@ -27,7 +27,7 @@ Welcome to the course "Introduction to Playwright" by [Renata Andrade](https://t
 
 On your terminal, type:
 
-1. `npm i`
+1. `npm i_cristina`
 
 IMPORTANT: to run the tests from `main`, you'll need to setup your [.env](.env) following the [.env.example](.env.example), otherwise many tests will fail - this setup is explained in the Chapter 4 video. The recommendation is to access each branch (`git checkout [branchname]`) and run the tests from the branch.
 
