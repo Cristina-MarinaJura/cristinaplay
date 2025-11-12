@@ -17,7 +17,7 @@ Welcome to the course "Introduction to Playwright" by [Renata Andrade](https://t
 - [VS Code setup](https://code.visualstudio.com/learn/get-started/basics)
 - [iTerm setup](https://iterm2.com/documentation-one-page.html)
 
-## Fork and clone the project
+## Fork and clone the project 123
 
 1. Copy the project URL `https://github.com/raptatinha/tau-introduction-to-playwright.git`;
 1. Fork the project following the [GitHub instructions](https://docs.github.com/en/get-started/quickstart/fork-a-repo) - (use the parameter --clone=true);
